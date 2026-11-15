@@ -44,12 +44,6 @@ Current releases are signed with the Nucel release key. Its certificate fingerpr
 
 Check it with `apksigner verify --print-certs nucel-v1.10.0.apk` (Android SDK build-tools). Android also refuses to install an update signed with a different key.
 
-## Releases
-
-Each release here mirrors a tagged build of the private source repository. Versions before v1.5.0 shipped under the old name Social Brain; the oldest (v1.1.4) is kept so existing links keep working.
-
-GitHub adds "Source code" zip and tar.gz links to every release. They only contain this README and the issue templates, not the app.
-
 ## Help and feedback
 
 - Bug or feedback: [open an issue](https://github.com/Yash-Khadse/nucel-releases/issues/new/choose)
