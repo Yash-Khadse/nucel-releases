@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Nucel: Save a spark. Find the thread." width="100%">
+</p>
+
 # Nucel for Android
 
 Nucel is a personal knowledge base: save things from anywhere, and find and ask about them later.
