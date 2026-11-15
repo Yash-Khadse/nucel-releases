@@ -1,0 +1,14 @@
+name: Feedback or idea
+description: Something you would like the app to do, or a thing that feels off
+labels: [feedback]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you change or add?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What are you trying to do when it comes up?

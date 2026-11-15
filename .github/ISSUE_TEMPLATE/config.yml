@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing or private questions
+    url: https://nucel.in/contact
+    about: Do not post these in a public issue.
+  - name: Report a security problem
+    url: https://github.com/Yash-Khadse/nucel-releases/security/advisories/new
+    about: Private report, not a public issue.
